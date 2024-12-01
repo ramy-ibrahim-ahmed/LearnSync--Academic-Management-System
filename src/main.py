@@ -21,8 +21,8 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(
-    title="Learning Management System🎓",
-    summary="Provide a powerful learning platform",
+    title="LearnSync🎓",
+    summary="Provide a powerful Academic management system.",
     #     description="""
     # **Key Features:**
     # * **Sign up:** User join the system with his data and get an access token.
