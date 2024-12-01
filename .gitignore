@@ -10,6 +10,7 @@ __pycache__/
 alembic.ini
 database
 notes.txt
+design/LMS database designe.drawio
 
 # Distribution / packaging
 .Python
