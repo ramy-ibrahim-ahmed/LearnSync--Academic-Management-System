@@ -7,7 +7,8 @@ LearnSync is a comprehensive, user-friendly platform designed to simplify and st
 - **Student Management**: Maintain student records, enrollment, progress, and performance.  
 - **Department/Track Management**: Oversee departments, programs, and specialized tracks effortlessly.  
 
-With LearnSync, institutions can:  
+With LearnSync, institutions can:
+
 - Centralize operations for better collaboration.  
 - Enhance productivity with automated workflows.  
 - Gain insights through analytics and reporting tools.  
